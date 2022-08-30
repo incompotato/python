@@ -1,0 +1,8 @@
+#madlib
+adj1 = input('put in a ajective')
+noun = input('put in a noun')
+verb = input('put in a verb')
+noun2 = input('put in a noun')
+
+madlib= f"once apon a time there was a {adj1} man. he went to the {noun}. sudenly a {noun2} apperied the man {verb} and then went home"
+print(madlib)
